@@ -14,14 +14,9 @@ Pull requests and issues are welcome!
 
 ### Content
 
-*   Personal Finance
-    *   Flesh out top priorities
 *   Education
-*   Lifestyle
-    *   Diet
-    *   Fitness
-    *   Travel
 *   Philosophy
+*   Spirituality
 
 ### Meta
 
