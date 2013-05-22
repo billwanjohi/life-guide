@@ -42,10 +42,12 @@ Don't do these things too much:
     *   other booze is less good, but fine
     *   unless you're likely to become an alcoholic
 *   Moderate amount of coffee
+*   Don't drink your calories (alcohol notwithstanding)
 *   Chocolate is fine
 *   Dairy is fine
 *   Less potatoes, red meat
 *   More yogurt, nuts
+*   White foods tend to be worse for you
 
 ## Exercise
 
