@@ -57,6 +57,34 @@ Don't do these things too much:
 *   Running is good, swimming is better
 *   If running, do 2-5 workouts, 6-7 mph, 10-15 miles per week
 
+## Sleep
+
+*   Sleep on average [7 hours per night](http://www.time.com/time/health/article/0,8599,1812420,00.html)
+*   Track your sleep with [some kind of accelerometer](http://lifehacker.com/5993005/five-best-sleep-tracking-gadgets-or-apps)
+*   Use a smart alarm that alerts at time of activity
+*   ["Settle short-term sleep debt with an extra hour or two per night"](http://www.helpguide.org/life/sleeping.htm)
+
+## Transportation
+
+*   Avoid car ownership
+    *   More expensive than you might think
+        *   ~ $8000 per year in Chicago
+    *   Time-suck
+        *   Maintenance
+	*   Other forms of commuting allow for useful activity (reading, exercise)
+
+### Bicycling
+
+#### Locking
+
+*   Lock your front and rear wheels within the back triangle using a squat U lock
+*   Anything with a quick-release should be secured, even in high-traffic areas
+
+#### Good Books
+
+*   [Effective Cycling](http://www.amazon.com/Effective-Cycling-John-Forester/dp/0262516942/)
+*   [Just Ride](http://www.amazon.com/Just-Ride-Radically-Practical-Riding/dp/0761155589/)
+
 ## Security
 
 *   Have a plan to recover from any theft (wallet, computer, phone, jewelry box)
@@ -65,3 +93,13 @@ Don't do these things too much:
 *   Encrypt your hard drives
 *   Own less stuff
 *   Keep (secure) backups
+
+### Two-factor authentication
+
+*   Twitter
+*   Microsoft
+*   Lastpass
+*   AWS
+*   OpenDNS
+*   Dropbox
+*   Google

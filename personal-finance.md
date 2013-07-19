@@ -16,9 +16,11 @@
 As a young person, before you have any assets or dependents, permanent disability is your greatest liability.
 Social security will not cover your costs without a drastic decrease in standard of living.
 
-*Buy as much disability insurance as you qualify for, as soon as you can.* Usually max of 80% of annual income.
+*   *Buy as much disability insurance as you qualify for, as soon as you can.*
+    *   Usually max of 80% of annual income.
+*   If possible, buy before you've been notified of any employee disabilty benefits
 
-Features of an appropriate plan:
+#### Features of an appropriate plan
 
 *   Guaranteed renewable
 *   Non-cancellable sounds reassuring, but may not be necessary
@@ -87,9 +89,10 @@ Recommendation: Fidelity
 *   No minimum activity / balance
 *   Free checks
 *   Mobile check deposit
+    *   Good to have a high limit for this, maybe > $5000
 *   Online transfer
 *   APY > 0%
-*   Refunds all ATM fees (internationally)
+*   Refunds all ATM fees (worldwide)
 
 ### Credit Cards
 
@@ -97,7 +100,7 @@ If you don't have problems with spending, use credit, not debit.
 
 That way you build your credit history, and you're better protected in case of fraud.
 
-#### Card recommendations:
+#### Card recommendations
 
 *   Fidelity American Express: 2% cash back to your checking account
 *   Citi Forward: 5% points for restaurants, movies, music, books (including all Amazon.com purchases)

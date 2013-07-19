@@ -13,6 +13,9 @@
 *   lifehacker.com
 *   metacritic.com
 *   cooksillustrated.com
+*   centzy.com
+*   thewirecutter.com
+*   thesweethome.com
 
 ## recommendations
 
@@ -41,3 +44,9 @@
 *   toodledo
 *   pocket
 *   leechblock
+
+## books
+
+*   insurance for dummies
+*   intelligent asset allocator
+*   getting things done
