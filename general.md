@@ -1,11 +1,18 @@
 # General
 
+## Goals
+
+*   Live ethically
+*   Maximize terminal life satisfaction
+*   Minimize morbidity risk
+*   Be happy
+
 ## Principles
 
 *   Correlation != causation, but it's a good start
 *   Wisdom of the crowd
 
-## Goals
+## Things to do
 
 *   Get married (to the right person)
 *   If you're a guy: have kids between 26-62 years
@@ -27,6 +34,10 @@ Pick activities that are:
 *   Practical
 *   Challenging
 
+for example:
+
+*   [play sports](http://journals.humankinetics.com/jsep-back-issues/jsepvolume6issue4december/alongitudinalinvestigationofsportparticipationandlifesatisfaction)
+
 Don't do these things too much:
 
 *   Watch TV
@@ -43,11 +54,28 @@ Don't do these things too much:
     *   unless you're likely to become an alcoholic
 *   Moderate amount of coffee
 *   Don't drink your calories (alcohol notwithstanding)
-*   Chocolate is fine
+*   Chocolate is fine, darker the better
 *   Dairy is fine
 *   Less potatoes, red meat
 *   More yogurt, nuts
 *   White foods tend to be worse for you
+
+### Vitamins
+
+*   Eat whole foods, [not supplements](http://www.theatlantic.com/health/archive/2013/07/the-vitamin-myth-why-we-think-we-need-supplements/277947/)
+    *   Even water soluble vitamins have shown to be counterproductive in supplement form
+    *   [Exceptions](http://ods.od.nih.gov/factsheets/MVMS-HealthProfessional/#h3):
+        *   [Vitamin D3](http://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)
+	    *   400 IUs for breastfed infants
+	    *   600-2000 IUs for most people, particularly
+		*   older adults
+		*   people with limited sun exposure
+		*   people with dark skin
+		*   people who are obese
+	*   400 mcg folic acid for women of child-bearing age
+	*   Iron for pregnant women
+	*   Calcium for post-menopausal women
+	*   Vitamin B12 for people over 50 and vegans
 
 ## Exercise
 

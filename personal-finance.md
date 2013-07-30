@@ -82,7 +82,7 @@ They may give you better loan rates than commercial banks
 
 ### Checking Account
 
-Recommendation: Fidelity
+Recommendation: [Fidelity or Schwab](http://bolesblogs.com/2012/12/03/schwab-investment-checking-vs-fidelity-cash-management/)
 
 #### Features to get
 

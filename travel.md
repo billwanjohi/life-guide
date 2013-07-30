@@ -4,7 +4,7 @@
 *   Time your vacations to be ten days long [1] 
 *   Do active things [1]
 *   Actively plan your vacation, at least eight weeks in advance [2]
-*   Space trips at least 10 weeks apart [2]
+*   Space trips 12 weeks apart [2]
 
 [1]: (http://gazette.com/burned-out-10-days-needed-for-optimal-vacation-says-springs-student/article/101809)
 [2]: (http://well.blogs.nytimes.com/2010/02/18/how-vacations-affect-your-happiness/)
