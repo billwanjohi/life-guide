@@ -2,6 +2,7 @@
 
 ## Priorities
 
+0.   Try to make at least $75k (USD PPP)
 1.   Spend on things that make you money (e.g. education, transportation)
 2.   Insure all of your liabilities
 3.   Get rid of debt
