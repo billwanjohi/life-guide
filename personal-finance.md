@@ -106,7 +106,7 @@ That way you build your credit history, and you're better protected in case of f
 *   Fidelity American Express: 2% cash back to your checking account
 *   Citi Forward: 5% points for restaurants, movies, music, books (including all Amazon.com purchases)
 *   American Express Blue Cash Preferred: 6% points for groceries, 3% for gas
-*   Capital One Cash Rewards: 1.5% cash back, no foreign transaction fees
+*   Capital One Quicksilver Cash Rewards: 1.5% cash back, no foreign transaction fees
 
 ### Brokerages
 
