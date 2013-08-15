@@ -59,6 +59,8 @@ Don't do these things too much:
 *   Less potatoes, red meat
 *   More yogurt, nuts
 *   White foods tend to be worse for you
+*   [Avoid artificial
+    sweeteners](http://www.purdue.edu/newsroom/releases/2013/Q3/prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html)
 
 ### Vitamins
 
