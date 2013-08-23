@@ -1,10 +1,15 @@
 # Travel
 
-*   Use vacation (exclusively?) for travel
-*   Time your vacations to be ten days long [1] 
+*   Use vacation for travel
+*   Time your vacations to be ten days long or shorter; length doesn't
+    matter that much [1] 
 *   Do active things [1]
+*   That said, relaxation is important
 *   Actively plan your vacation, at least eight weeks in advance [2]
-*   Space trips 12 weeks apart [2]
+*   Space trips 12 weeks apart for max effect [2]
+*   Take off Mondays over Fridays
+    *   Week before trip is filled with anticipation,
+        week after is mercifully short
 
 [1]: (http://gazette.com/burned-out-10-days-needed-for-optimal-vacation-says-springs-student/article/101809)
 [2]: (http://well.blogs.nytimes.com/2010/02/18/how-vacations-affect-your-happiness/)
