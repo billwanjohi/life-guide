@@ -41,6 +41,8 @@ for example:
 Don't do these things too much:
 
 *   Watch TV
+    *   [Limit to ~15min per day](http://www.bsfrey.ch/articles/459_07.pdf),
+        particularly if you're time is scarce
 *   Play video games
 *   Idle web surfing
 
