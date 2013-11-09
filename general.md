@@ -15,7 +15,7 @@
 ## Things to do
 
 *   Get married (to the right person)
-*   If you're a guy: have kids between 26-62 years
+*   If you're a guy: have kids between [26-62 years](http://www.psychologytoday.com/files/attachments/496/nelson-et-al-2012.pdf)
 *   Go to church/synagogue/whatever
 *   Invest in personal relationships
 *   Travel
@@ -41,7 +41,7 @@ for example:
 Don't do these things too much:
 
 *   Watch TV
-    *   [Limit to ~15min per day](http://www.bsfrey.ch/articles/459_07.pdf),
+    *   [Less than 30min/day](http://www.bsfrey.ch/articles/459_07.pdf),
         particularly if you're time is scarce
 *   Play video games
 *   Idle web surfing
