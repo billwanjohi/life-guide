@@ -1,14 +1,29 @@
 # Personal Finance
 
-## Priorities
+## The Plan
 
-0.   Try to make at least $75k (USD PPP)
-1.   Spend on things that make you money (e.g. education, transportation)
-2.   Insure all of your liabilities
-3.   Get rid of debt
-3.   Save
-4.   Invest
-5.   Die broke
+0.  Aim to make at least $75k (USD PPP)
+1.  Spend on things that make you money (e.g. education, transportation)
+2.  Insure all of your liabilities
+2.  Be frugal
+3.  Pay down expensive debt
+3.  Give to charity
+4.  Invest
+4.  Work as long as you can
+4.  Downsize lifestyle where you can
+4.  Give more
+5.  Die broke
+
+## Charity
+
+*   Take
+    [the giving pledge](http://www.thelifeyoucansave.org/TakethePledge.aspx)
+    *   Give at least
+        [this much](http://www.thelifeyoucansave.org/TakethePledge/HowMuch.aspx)
+        *   some alternative amounts
+            [here](http://www.givingonepercent.org.au/index.php/how-much-to-give/giving-guide)
+*   Give monthly to the same few orgs
+    *   [Here](http://www.givewell.org/charities/top-charities) are some good ones
 
 ## Insurance
 

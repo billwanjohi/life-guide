@@ -20,10 +20,17 @@
 *   Invest in personal relationships
 *   Travel
 *   Keep a pet (dog?)
-*   Follow passions
 *   Constantly improve
 *   Question things
 *   Care for others
+*   Give time and money to charitable endeavors
+*   Stay flexible
+
+## [Career](80000hours.org)
+
+*   Don't just ["do what you love"](http://80000hours.org/blog/183-the-worst-ethical-careers-advice-in-the-world),
+    [do what's valuable](http://80000hours.org/blog/187-the-best-career-advice-you-ll-never-hear-in-a-graduation-speech)
+*   School is useful
 
 ## Leisure
 

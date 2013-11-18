@@ -1,5 +1,13 @@
 # Resources
 
+## charity
+
+*   80000hours.org
+*   givewell.org
+*   charitynavigator.org
+*   thelifeyoucansave.org
+*   givingwhatwecan.org
+
 ## reviews
 
 *   gdgt.com
