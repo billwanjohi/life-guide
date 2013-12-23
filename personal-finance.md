@@ -16,6 +16,7 @@
 
 ## Charity
 
+*   Consider the most effective ways to help people / living things
 *   Take
     [the giving pledge](http://www.thelifeyoucansave.org/TakethePledge.aspx)
     *   Give at least
@@ -24,6 +25,11 @@
             [here](http://www.givingonepercent.org.au/index.php/how-much-to-give/giving-guide)
 *   Give monthly to the same few orgs
     *   [Here](http://www.givewell.org/charities/top-charities) are some good ones
+*   Mitigate climate change
+    *   [Find](http://coolclimate.berkeley.edu/carboncalculator) your climate footprint
+    *   Reduce as much as possible with conventional means
+    *   Give to mitigate at least equal amount of remainder to most effective
+        [climate change charity](http://www.givingwhatwecan.org/where-to-give/charity-evaluation/climate-change)
 
 ## Insurance
 

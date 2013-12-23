@@ -32,6 +32,13 @@
     [do what's valuable](http://80000hours.org/blog/187-the-best-career-advice-you-ll-never-hear-in-a-graduation-speech)
 *   School is useful
 
+## Where to live
+
+*   Some place with good jobs
+*   A [happy](http://info.healthways.com/2012wellbeingindex) place
+*   Near friends/family
+*   [Good weather](http://www.currentresults.com/Weather/cities-with-the-best-weather.php)
+
 ## Leisure
 
 Pick activities that are:
@@ -118,6 +125,9 @@ Don't do these things too much:
     *   Time-suck
         *   Maintenance
 	*   Other forms of commuting allow for useful activity (reading, exercise)
+*   Bike-commuting is
+    [happiest](http://bikeportland.org/2013/01/30/bike-commuters-are-happiest-and-other-psu-research-tidbits-82448),
+    then walking, then public transit
 
 ### Bicycling
 
