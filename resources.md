@@ -8,6 +8,13 @@
 *   thelifeyoucansave.org
 *   givingwhatwecan.org
 
+## money
+
+*   bogleheads.org
+*   mint.com
+*   nerdwallet.com
+*   creditkarma.com
+
 ## reviews
 
 *   gdgt.com
