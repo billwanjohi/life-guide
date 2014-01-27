@@ -14,10 +14,13 @@
 
 ## Things to do
 
-*   Get married (to the right person)
+*   Care for your health
+*   Find stable employment
+*   [Meet up with friends and family]
+    (http://www.powdthavee.co.uk/resources/valuing_social_relationships_15.04.pdf)
+    as much as possible (has a profound impact on life satisfaction)
+*   Get married
 *   If you're a guy: have kids between [26-62 years](http://www.psychologytoday.com/files/attachments/496/nelson-et-al-2012.pdf)
-*   Go to church/synagogue/whatever
-*   Invest in personal relationships
 *   Travel
 *   Keep a pet (dog?)
 *   Constantly improve

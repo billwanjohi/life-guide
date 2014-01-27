@@ -4,8 +4,9 @@
 
 *   Track body fat percentage, waist circumference; not weight
     *   Aim for:
-        *   20-25 kg/m^2 BMI for [lowest mortality risk]
+        *   25-30 kg/m^2 BMI for [lowest mortality risk]
             (http://intranet.santa.lt/thesaurus/no_crawl/BENDRI/Impact%20of%20obesity%20on%20total%20and%20cardiovascular%20mortality%E2%80%94fat%20or%20fiction.pdf)
+            *   This is the "overweight" zone, paradoxically
             *   Lean mass decreases mortality risk, body fat increases it
         *   [Waist/Hip ratios]
             (https://en.wikipedia.org/wiki/Waist%E2%80%93hip_ratio)
@@ -14,9 +15,11 @@
     *   Nutrients also important
     *   As is satiety of food
     *   Weight watchers plus points are sensible
-*   Drink a glass of red wine a day
-    *   other booze is less good, but beneficial in small quantities
-    *   unless you're likely to become an alcoholic
+*   Drink an average of [35g / 42g of alcohol per week]
+    (http://archinte.jamanetwork.com/article.aspx?articleid=769555#ira60012t2)
+    if you're a woman / man
+    *   14g is a "standard" American drink
+    *   A pint of beer is ~23g
 *   Moderate amount of coffee
 *   Don't drink your calories (alcohol notwithstanding)
 *   Chocolate is fine, darker the better
@@ -30,6 +33,7 @@
     (http://www.purdue.edu/newsroom/releases/2013/Q3/prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html)
 *   Eat whole, organic foods when possible
     *   ["100 Healthiest Foods"](http://www.whfoods.com/foodstoc.php)
+*   [DASH Diet](http://health.usnews.com/best-diet/dash-diet) is sound
 
 ## Vitamins
 
