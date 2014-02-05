@@ -22,7 +22,7 @@
 *   Get married
 *   If you're a guy: have kids between [26-62 years](http://www.psychologytoday.com/files/attachments/496/nelson-et-al-2012.pdf)
 *   Travel
-*   Keep a pet (dog?)
+*   Keep a pet
 *   Constantly improve
 *   Question things
 *   Care for others

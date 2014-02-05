@@ -11,6 +11,8 @@
         *   [Waist/Hip ratios]
             (https://en.wikipedia.org/wiki/Waist%E2%80%93hip_ratio)
             of 0.7 for women and 0.9 for men
+    *   Maintain essential fat + [whatever needed for activity of choice]
+        (http://www.humankinetics.com/excerpts/excerpts/normal-ranges-of-body-weight-and-body-fat)
 *   Calorie counting is useful, but not all calories are equal
     *   Nutrients also important
     *   As is satiety of food
