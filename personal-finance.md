@@ -130,17 +130,41 @@ That way you build your credit history, and you're better protected in case of f
 *   [Capital One Quicksilver Cash Rewards](http://www.nerdwallet.com/blog/2013/capital-quicksilver-replaces-cash-offers-100-signup-bonus/):
     1.5% cash back, no foreign transaction fees
 
-### Brokerages
+## Investing
 
-#### Good Companies
+### Strategy
+
+1.  Pay down expensive debt
+    *   Some loans have low enough APY to not be toxic (e.g. federal
+        student loans)
+2.  Protect yourself from inflation
+    *   Cash loses value over time
+    *   Move it into short-term bonds to at least match inflation
+3.  Invest in equity
+    *   If your are uninformed, and inexperience, do not exceed 50%
+        equity
+4.  Read some of [these books](http://www.efficientfrontier.com/reading.htm)
+
+### Retirement
+
+Work until you:
+
+*   become eligible for full social security and/or pension benefits
+*   can purchase an inflation-adjusted lifetime annuity to cover your
+    costs above social security / pension payments
+
+### Brokerages
 
 1.  TIAA-CREF
 2.  Vanguard
 3.  Charles Schwab
 4.  Fidelity
 5.  Scottrade
+6.  Dimensional Fund Advisors
 
-#### Investment instruments
+### Investment instruments
 
-*   Index Funds, mutual funds that track an index of a specific financial market, are superior financial product, because of their simplicity and low fees
-*   Exchange Traded Funds (ETFs) share the advantages of index funds, but are optimized for situations where you are not buying very frequently
+*   Index Funds, mutual funds that track an index of a specific financial market,
+    are superior financial product, because of their simplicity and low fees
+*   Exchange Traded Funds (ETFs) share the advantages of index funds,
+    but are optimized for situations where you are not buying very frequently

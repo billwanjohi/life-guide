@@ -1,5 +1,8 @@
 # Resources
 
+[Annuity Calculator]
+(https://www.newretirement.com/services/annuity_calculator.aspx)
+
 ## charity
 
 *   80000hours.org
