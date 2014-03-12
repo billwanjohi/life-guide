@@ -20,7 +20,12 @@
     (http://www.powdthavee.co.uk/resources/valuing_social_relationships_15.04.pdf)
     as much as possible (has a profound impact on life satisfaction)
 *   Get married
-*   If you're a guy: have kids between [26-62 years](http://www.psychologytoday.com/files/attachments/496/nelson-et-al-2012.pdf)
+*   Kids are tricky:
+    *   [Kids make middle-aged or male parents more happy,
+        but unmarried ones less]
+        (http://www.psychologytoday.com/files/attachments/496/nelson-et-al-2012.pdf)
+    *   [Grandkids make people happy](http://ftp.iza.org/dp5869.pdf),
+        at least for those already reasonably satisfied with life
 *   Travel
 *   Keep a pet
 *   Constantly improve

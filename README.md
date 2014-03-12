@@ -2,7 +2,8 @@
 
 My advice on how to live. I claim no expertise, but I thought I should share.
 
-Very rooted in my particular experience, a young American man. Maybe it can grow from there.
+Very rooted in my particular experience, a young heterosexual American man.
+Hopefully it can grow from there.
 
 Inspired by [The Hitchhiker’s Guide to Python](https://python-guide.readthedocs.org/en/latest/)
 
