@@ -109,7 +109,7 @@ Network Operators (MVNOs). These are companies that repackage the same
 service at an often steeply discounted price, usually prepaid.
 
 Wikipedia maintains a [list of MVNOs]
-https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators).
+(https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators).
 Exclude any that don't have LTE.
 
 Compare prices, bring your own unlocked phone, and enjoy the savings.
