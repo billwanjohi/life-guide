@@ -95,7 +95,7 @@ Don't do these things too much:
     [happiest](http://bikeportland.org/2013/01/30/bike-commuters-are-happiest-and-other-psu-research-tidbits-82448),
     then walking, then public transit
 
-### Bicycling
+### Cycling
 
 #### Locking
 
