@@ -67,15 +67,17 @@ but both have advantages and disadvantages.
 
 *   [Buy unlocked]
     (http://www.ebay.com/gds/8-Advantages-Of-Buying-An-Unlocked-Phone-/10000000177629386/g.html)
-    *   Make sure it has a 1900Mhz UMTS band for international coverage
     *   This means a phone with a multi-band GSM/UMTS radio that you can
         service in multiple countries with multiple carriers
+        *   Make sure it has a 1900Mhz UMTS band for international coverage
     *   The upfront cost is higher,
         but your service can be much much cheaper
     *   You can use your device much more flexibly,
         particularly when traveling
-    *   There are even unlocked phones for Verizon/Sprint, by installing
+    *   There are even unlocked phones for Verizon/Sprint, by including
         both CDMA and GSM radios.
+        *   Sometimes these are only unlocked outside of the US
+            (i.e. AT&T/T-Mobile would not be available)
 *   If possible, buy from a retail location
     *   Helpful to have a local repair option,
         particularly if you need to return your device and need a loaner
