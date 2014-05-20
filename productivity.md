@@ -3,7 +3,18 @@
 ## Working
 
 *   Multitasking is dumb, counterproductive
-*   27" screen is sufficient (or equivalent)
+*   Aim for approximately [3.6M pixels]
+    (http://lifehacker.com/5616859/is-the-multiple-monitor-productivity-boost-a-myth)
+    of display for your workstation
+    *   e.g. I have a 1440x900 laptop display, which gives me 1,296,000
+        pixels, and I should either
+        *   drive one external 2560x1440 display (usually 27")
+        *   extend desktop to 1920x1200 display (usually 24")
+
+## Habits
+
+*   Form positive habits
+    *   Lift app is a good aid in this
 
 ## Learning
 
