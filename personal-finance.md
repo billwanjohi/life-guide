@@ -153,6 +153,36 @@ Work until you:
 *   can purchase an inflation-adjusted lifetime annuity to cover your
     costs above social security / pension payments
 
+#### Social Security
+
+Social Security will not vanish in a puff of smoke.
+It is incredibly popular, is relied upon by most retirees,
+and has a defined funding stream.
+
+That said, benefit cuts are reasonably likely.
+
+Without change in law,
+[2013 projections](http://www.ssa.gov/oact/tr/2013/tr2013.pdf) indicate that:
+
+    After trust fund reserve depletion,
+    continuing income is sufficient to support expenditures at
+    a level of 77 percent of program cost for the rest of 2033,
+    declining to 72 percent for 2087.
+
+Preventing this would require
+[increasing income](http://www.huffingtonpost.com/2013/02/18/change-social-security_n_2708000.html),
+by increasing the payroll tax by less than 2 percentage points
+and/or eliminating the payroll tax cap.
+Both of these are supported by large majorities of Americans.
+
+##### Consequence
+
+If you will retire after 2030, plan for as little as 75% retirement benefits,
+until a new compromise is enacted.
+
+Planning for the complete dissolution
+of the program is irrationally pessimistic.
+
 ### Brokerages
 
 1.  TIAA-CREF
