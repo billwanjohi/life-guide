@@ -17,25 +17,29 @@
     *   Nutrients also important
     *   As is satiety of food
     *   Weight watchers plus points are sensible
-*   Drink an average of [35g / 42g of alcohol per week]
-    (http://archinte.jamanetwork.com/article.aspx?articleid=769555#ira60012t2)
-    if you're a woman / man
-    *   14g is a "standard" American drink
-    *   A pint of beer is ~23g
-*   Moderate amount of coffee
-*   Don't drink your calories (alcohol notwithstanding)
-*   Chocolate is fine, darker the better
-*   Dairy is fine
-*   [Foods matter, not just calorie content]
-    (http://www.nejm.org/doi/full/10.1056/NEJMoa1014296)
+    *   [DASH Diet](http://health.usnews.com/best-diet/dash-diet) is sound
+    *   Don't drink your calories (alcohol notwithstanding)
+    *   [Dietary fat doesn't make you fat](http://ajcn.nutrition.org/content/67/3/556S.short)
+*   [Foods matter, not just calorie content](http://www.nejm.org/doi/full/10.1056/NEJMoa1014296)
     *   Less potatoes, processed/red meat
     *   More yogurt, nuts, fruits, vegetables, whole grains
-*   White foods tend to be worse for you
-*   [Avoid artificial sweeteners]
-    (http://www.purdue.edu/newsroom/releases/2013/Q3/prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html)
 *   Eat whole, organic foods when possible
     *   ["100 Healthiest Foods"](http://www.whfoods.com/foodstoc.php)
-*   [DASH Diet](http://health.usnews.com/best-diet/dash-diet) is sound
+*   Dairy is fine
+*   White foods tend to be worse for you
+*   [Avoid artificial sweeteners](http://www.purdue.edu/newsroom/releases/2013/Q3/prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html)
+*   Drink an average of
+    [35g / 42g of alcohol per week](http://archinte.jamanetwork.com/article.aspx?articleid=769555#ira60012t2)
+    if you're a woman / man for maximum benefit
+    *   14g is a "standard" American drink
+    *   A pint of beer is ~23g
+*   Chocolate is fine, darker the better
+*   Moderate amount of coffee
+
+### Fasting
+
+Fasting for 72 hours may be very beneficial to people's immune systems:
+https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/
 
 ## Vitamins
 
