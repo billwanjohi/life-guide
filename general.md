@@ -78,10 +78,16 @@ Don't do these things too much:
 
 ## Sleep
 
-*   Sleep on average [7 hours per night](http://www.time.com/time/health/article/0,8599,1812420,00.html)
+*   Sleep on average [7 hours per
+    night](http://www.time.com/time/health/article/0,8599,1812420,00.html) for longevity
+    *   Or for low morbidity: ["7.6 hours for women and 7.8 hours for
+        men"](http://www.ncbi.nlm.nih.gov/m/pubmed/25142569/)
 *   Track your sleep with [some kind of accelerometer](http://lifehacker.com/5993005/five-best-sleep-tracking-gadgets-or-apps)
 *   Use a smart alarm that alerts at time of activity
 *   ["Settle short-term sleep debt with an extra hour or two per night"](http://www.helpguide.org/life/sleeping.htm)
+*   Take
+    [short](http://io9.com/the-secrets-of-highly-efficient-napping-1680906145)
+    naps if you want to come up alert: 10-20 minutes
 
 ## Transportation
 

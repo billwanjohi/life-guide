@@ -198,3 +198,9 @@ of the program is irrationally pessimistic.
     are superior financial product, because of their simplicity and low fees
 *   Exchange Traded Funds (ETFs) share the advantages of index funds,
     but are optimized for situations where you are not buying very frequently
+
+## Shopping
+
+*   [Style](http://dappered.com/2013/10/skimp-or-spend-a-buying-guide-for-mens-style/)
+*   [List ALL of your possessions](http://lifehacker.com/how-to-program-your-mind-to-stop-buying-crap-you-don-t-1690268064),
+    and downsize

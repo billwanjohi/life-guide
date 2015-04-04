@@ -28,13 +28,29 @@
 *   Dairy is fine
 *   White foods tend to be worse for you
 *   [Avoid artificial sweeteners](http://www.purdue.edu/newsroom/releases/2013/Q3/prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html)
+
+### Drinks
+
+#### Alcohol
+
+*   Abstinence is a health risk
 *   Drink an average of
-    [35g / 42g of alcohol per week](http://archinte.jamanetwork.com/article.aspx?articleid=769555#ira60012t2)
+    [35g / 42g of alcohol per week](http://archinte.jamanetwork.com/article.aspx?articleid=769554)
     if you're a woman / man for maximum benefit
     *   14g is a "standard" American drink
     *   A pint of beer is ~23g
+*   Avoid drinking until drunk
+*   If you have symptoms of alcohol-use disorder,
+    [seek *medical* treatment](http://www.theatlantic.com/features/archive/2015/03/the-irrationality-of-alcoholics-anonymous/386255/)
+    *   Alcoholics Anonymous is likely not your best option
+    *   There are many medical treatments available to help you regain
+        moderation
+
+#### Others
+
 *   Chocolate is fine, darker the better
-*   Moderate amount of coffee
+*   Drink
+    [3-5 cups of coffee a day](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/02/21/its-official-americans-should-drink-more-coffee/)
 
 ### Fasting
 
